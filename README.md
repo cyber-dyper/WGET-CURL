@@ -59,8 +59,8 @@ Un **Terminal** est une application qui te permet d'interagir avec ton ordinateu
 
 ### 💻 **Comment ouvrir un Terminal ?**  
 
-- **Windows** : Recherche *cmd* ou *PowerShell* dans la barre de recherche.  
-- **macOS** : Va dans **Applications > Utilitaires > Terminal**.  
+- **Windows** : Recherche *cmd* ou *PowerShell* dans la barre de recherche ou dans l'invite de commande (Windows + R).  
+- **macOS** : Va dans **Applications > Utilitaires > Terminal** (⌘ Cmd + Espace).  
 - **Linux** : Utilise le raccourci clavier `Ctrl + Alt + T` ou cherche *Terminal* dans le menu des applications.
 
 ---
