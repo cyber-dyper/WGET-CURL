@@ -26,7 +26,7 @@ Ce guide t'expliquera pourquoi utiliser **wget** sous **Linux** et **curl** sous
 
 ### 📦 **wget (Linux)**  
 
-- **wget** (*"web get"*) est un outil en ligne de commande pour **Linux** qui permet de télécharger des fichiers via les protocoles **HTTP**, **HTTPS** et **FTP**.  
+- **wget** (*"web get"*) est un outil en ligne de commande pour **Linux** qui permet de télécharger des fichiers via les protocoles **HTTP**, **HTTPS** et **FTP** directement depuiis ton terminal.  
 - Idéal pour :  
   - 📥 **Télécharger des fichiers volumineux**.  
   - 🌐 **Récupérer des sites web entiers**.  
@@ -43,6 +43,29 @@ Ce guide t'expliquera pourquoi utiliser **wget** sous **Linux** et **curl** sous
   - 🔀 **Utiliser différents protocoles** comme **SFTP**, **SMTP**, **IMAP**, etc.
 
 ---
+
+## 😅 **Au fait, c'est quoi un Terminal ?**
+
+Un **Terminal** est une application qui te permet d'interagir avec ton ordinateur en **ligne de commande**, c'est-à-dire en tapant du texte au lieu d'utiliser uniquement ta souris.  
+
+### 🎯 **Pourquoi utiliser un Terminal ?**  
+
+- 🛠️ **Exécuter des commandes système** : créer des dossiers, déplacer des fichiers, installer des logiciels.  
+- 🌐 **Utiliser des outils en ligne de commande** : comme `wget`, `curl`, `git`, etc.  
+- 🤖 **Automatiser des tâches répétitives** : en écrivant des scripts (fichiers texte contenant une série de commandes).  
+- 🚀 **Accéder à des fonctionnalités avancées** : souvent plus rapidement qu'avec une interface graphique.
+
+---
+
+### 💻 **Comment ouvrir un Terminal ?**  
+
+- **Windows** : Recherche *cmd* ou *PowerShell* dans la barre de recherche.  
+- **macOS** : Va dans **Applications > Utilitaires > Terminal**.  
+- **Linux** : Utilise le raccourci clavier `Ctrl + Alt + T` ou cherche *Terminal* dans le menu des applications.
+
+---
+
+
 
 ## 🚀 **Pourquoi utiliser wget sur Linux et curl sur Windows/macOS ?**  
 
